@@ -1,6 +1,6 @@
 import cv2
 
-alg=("C:/Users/prathisha v/Downloads/Day-5/Day_5/haarcascade_frontalface_default.xml")
+alg=("Samplefile.xml")
 
 haar_cascade=cv2.CascadeClassifier(alg)
 
